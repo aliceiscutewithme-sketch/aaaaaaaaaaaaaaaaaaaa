@@ -4,7 +4,7 @@ export default [
         channelId: "1446774779150340119",
         serverId: "1446602120441757930",
         token: process.env.token1,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 25, // ثواني
